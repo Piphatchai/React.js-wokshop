@@ -1,0 +1,27 @@
+.expenditure {
+    border-right: 15px solid red;
+}
+.income {
+    border-right: 15px solid #00E163  ;
+    
+}
+
+.itemlist {
+    margin-top: 30px;
+    list-style: none;
+    padding: 0px;
+    margin-bottom: 10px;
+    font-size: 20px;
+   
+}
+
+.itemlist li {
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 15px;
+    background: whitesmoke;
+    margin-top: 10px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0,0.12);
+    
+}
